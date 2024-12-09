@@ -1,3 +1,4 @@
+![timed-tasks](https://github.com/user-attachments/assets/38c115bc-b5ea-48df-88fd-00ba003345d4)
 # Timed Tasks - Daily Code Challenge
 
 Timed Tasks is a simple and intuitive task management application built with Vue.js and styled with Tailwind CSS. It allows users to create, view, and manage tasks with a focus on timing and organization. 
